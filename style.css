@@ -1,0 +1,69 @@
+body{
+  background-color: white;
+
+}
+div{
+  background-color: lightblue;
+  width: 38vw;
+  height: 2vh;
+  position: absolute;
+  left: 26vw;
+  top: 25vh;
+
+}
+
+header.title{
+  text-align: center;
+  color: white;
+  background-color: darkblue;
+  font-family: "Verdana";
+ border: 2px solid black;
+  font-size: 1.5rem;
+margin-top: 0rem;
+padding-top: 1vh;
+padding-bottom: 1vh;
+width: 100vw;
+}
+section.intro{
+  display: inline-block;
+  font-family: "Verdana";
+  text-align: center;
+  width: 30vw;
+  height: 10vh;
+  background-color: white;
+  margin: 0%;
+  position: absolute;
+  left: 30vw;
+  top: 27vh;
+}
+section.in27tro h2{
+  padding-top: 0vh;
+  padding-bottom: 0vh;
+}
+section.right{
+  text-align: right;
+
+}
+section.filler{
+  background-color: lightblue;
+}
+aside.right{
+  text-align: right;
+  display: inline-block;
+  position: absolute;
+  left: 75vw;
+  top: 25vh;
+  width: 20vw;
+  height: auto;
+}
+footer{
+  background-color: darkblue;
+  margin: 0;
+  height: 10vh;
+  width: 100vw;
+  padding: 0;
+  border: 2px solid black;
+  display: block;
+  position: absolute;
+  bottom: 0;
+}
